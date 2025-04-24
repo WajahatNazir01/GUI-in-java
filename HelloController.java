@@ -1,4 +1,4 @@
-package com.example.digitalclock;
+package com.example.project;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
